@@ -1,16 +1,29 @@
-### Hi there 👋
+## About me
+### Quế Tùng (@ZoeMeow.6250)
+Nothing to do.<br>
+Programming as hobby :))
 
-<!--
-**ZoeMeow6250/ZoeMeow6250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Most Used Languages
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?layout=compact&username=zoemeow6250)
 
-Here are some ideas to get you started:
+## Something fun :))
+![GitHub stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=default&username=zoemeow6250)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacts
+
+Most active contacts:
+- Discord: [ZoeMeow#6250][discord]
+- Reddit: [ZoeMeow (@Zoe13010_01)][reddit]
+
+Other contacts:
+- Facebook: [Quế Tùng (@ZoeMeow.6250)][facebook]
+- Email: [theredyummi.8864@gmail.com][email]
+
+## About this profile
+
+- Want to make "About your profile README" like this?<br>Check out here: https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
+
+[discord]: https://discordapp.com/users/465061557814951936
+[reddit]: https://www.reddit.com/user/zoe13010_01
+[facebook]: https://www.facebook.com/ZoeMeow.6250
+[email]: mailto:theredyummi.8864@gmail.com
