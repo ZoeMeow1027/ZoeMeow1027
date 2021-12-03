@@ -17,6 +17,7 @@ Most active contacts:
 
 Other contacts:
 - Facebook: [Quế Tùng (@ZoeMeow.6250)][facebook]
+- Twitter: [Quế Tùng (@ZoeMeow6250)][twitter]
 - Email: [theredyummi.8864@gmail.com][email]
 
 ## About this profile
@@ -26,4 +27,5 @@ Other contacts:
 [discord]: https://discordapp.com/users/465061557814951936
 [reddit]: https://www.reddit.com/user/zoe13010_01
 [facebook]: https://www.facebook.com/ZoeMeow.6250
+[twitter]: https://www.twitter.com/ZoeMeow6250
 [email]: mailto:theredyummi.8864@gmail.com
