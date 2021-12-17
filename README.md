@@ -20,9 +20,11 @@ Other contacts:
 - Twitter: [Quế Tùng (@ZoeMeow6250)][twitter]
 - Email: [ZoeMeow.6250@outlook.com][email]
 
-## Art by @melon_kohashi in Twitter
+## About avatar
 
-https://twitter.com/melon_kohashi/status/1373030119527178244
+- Using [@melon_kohashi](https://twitter.com/melon_kohashi)'s art in Twitter
+
+- Original link: https://twitter.com/melon_kohashi/status/1373030119527178244
 
 ## About this profile
 
