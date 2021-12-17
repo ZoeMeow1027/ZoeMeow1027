@@ -22,8 +22,7 @@ Other contacts:
 
 ## About avatar
 
-- Using [@melon_kohashi](https://twitter.com/melon_kohashi)'s art in Twitter
-
+- Using [@melon_kohashi](https://twitter.com/melon_kohashi)'s art on Twitter.
 - Original link: https://twitter.com/melon_kohashi/status/1373030119527178244
 
 ## About this profile
