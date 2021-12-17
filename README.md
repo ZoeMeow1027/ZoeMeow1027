@@ -20,6 +20,10 @@ Other contacts:
 - Twitter: [Quế Tùng (@ZoeMeow6250)][twitter]
 - Email: [ZoeMeow.6250@outlook.com][email]
 
+## Art by @melon_kohashi in Twitter
+
+https://twitter.com/melon_kohashi/status/1373030119527178244
+
 ## About this profile
 
 - Want to make "About your profile README" like this?<br>Check out here: https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
