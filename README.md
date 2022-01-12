@@ -22,8 +22,8 @@ Other contacts:
 
 ## About avatar
 
-- Using [@melon_kohashi](https://twitter.com/melon_kohashi)'s art on Twitter.
-- Original link: https://twitter.com/melon_kohashi/status/1373030119527178244
+- Using [月城琉花](https://www.pixiv.net/users/288248)'s art on Twitter.
+- Original link: https://www.pixiv.net/artworks/37009353
 
 ## About this profile
 
