@@ -7,11 +7,10 @@ Just doing your favorite, and... that's it :))
 
 <!-- Hobbies -->
 ## Hobbies
-- Custom Android ROM `:))`
-  - I have a realme 3 Pro device, running Awaken OS 2.3 (Android 12) :))
-    - GAaps (it means this ROM has included Google Apps).
-    - SafetyNet passed by default.
-    - You can download this ROM [here][awaken_os_rmx1851].
+- Custom Android ROM (because I don't like Color OS/Realme UI!!! That's it!)
+  - Device: RMX1851
+  - Using ROM: Octavi OS 3.3 [Android 12] [Gapps]
+    - Download this ROM [here][octavios_rmx1851].
 - Music:
   - [Monstercat Silk Showcase (Monstercat)][monstercat_ss]
     - New episode every Thursday 3 AM (GMT+7).
@@ -32,7 +31,7 @@ Just doing your favorite, and... that's it :))
 | -------------------- | ------                                                                      |
 | C# (CSharp)          | ![CSharp status][csharp_status]<br>                                         |
 | Python               | ![Python status][python_status]<br>                                         |
-| Java                 | ![Java status][java_status]<br> - I think I don't work with Java, for now   |
+| Java                 | ![Java status][java_status]<br>                                             |
 | HTML3/5/CSS/JS       | Currently learning                                                          |
 | Django (Python)      | Currently learning                                                          |
 | Node.Js              | Currently learning                                                          |
@@ -96,8 +95,8 @@ Check out here: https://docs.github.com/en/github/setting-up-and-managing-your-g
 <!-- Preview: GitHub Progress bar -->
 [github_progressbar]: https://github.com/fredericojordan/progress-bar
 [csharp_status]: https://progress-bar.dev/80?scale=100&width=300&suffix=%
-[python_status]: https://progress-bar.dev/65?scale=100&width=300&suffix=%
-[java_status]: https://progress-bar.dev/50?scale=100&width=300&suffix=%
+[python_status]: https://progress-bar.dev/70?scale=100&width=300&suffix=%
+[java_status]: https://progress-bar.dev/65?scale=100&width=300&suffix=%
 
 <!-- Hobbies: ROM -->
-[awaken_os_rmx1851]: https://sourceforge.net/projects/project-awaken/files/RMX1851/
+[octavios_rmx1851]: https://octavi-os.com/downloads
