@@ -8,15 +8,11 @@ Just doing your favorite, and... that's it :))
 <!-- Hobbies -->
 ## Hobbies
 - Custom Android ROM (because I don't like Color OS/Realme UI!!! That's it!)
-  - Device: RMX1851
-  - Using ROM: Octavi OS 3.3 [Android 12] [Gapps]
-    - Download this ROM [here][octavios_rmx1851].
-- Music:
+- Most Favorite Music:
   - [Monstercat Silk Showcase (Monstercat)][monstercat_ss]
-    - New episode every Thursday 3 AM (GMT+7).
+    - New episode every Thursday 2 AM (GMT+7).
   - [Call of the Wild (Monstercat)][monstercat_cotw]
-    - New episode every Thursday 4 AM (GMT+7).
-  - Others music (Drum & Bass) `:))`
+    - New episode every Thursday 3 AM (GMT+7).
 
 <!-- My statistics -->
 ## Statistics
@@ -97,6 +93,3 @@ Check out here: https://docs.github.com/en/github/setting-up-and-managing-your-g
 [csharp_status]: https://progress-bar.dev/80?scale=100&width=300&suffix=%
 [python_status]: https://progress-bar.dev/70?scale=100&width=300&suffix=%
 [java_status]: https://progress-bar.dev/65?scale=100&width=300&suffix=%
-
-<!-- Hobbies: ROM -->
-[octavios_rmx1851]: https://octavi-os.com/downloads
