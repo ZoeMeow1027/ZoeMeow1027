@@ -1,4 +1,4 @@
-## About me: Quế Tùng (@ZoeMeow6250)
+## About me: @ZoeMeow6250
 Just doing your favorite, and... that's it :))
 
 <!-- Working projects and just for fun =)) -->
@@ -8,11 +8,6 @@ Just doing your favorite, and... that's it :))
 <!-- Hobbies -->
 ## Hobbies
 - Custom Android ROM (because I don't like Color OS/Realme UI!!! That's it!)
-- Most Favorite Music:
-  - [Monstercat Silk Showcase (Monstercat)][monstercat_ss]
-    - New episode every Thursday 2 AM (GMT+7).
-  - [Call of the Wild (Monstercat)][monstercat_cotw]
-    - New episode every Thursday 3 AM (GMT+7).
 
 <!-- My statistics -->
 ## Statistics
@@ -74,10 +69,6 @@ Check out here: https://docs.github.com/en/github/setting-up-and-managing-your-g
 [facebook]: https://www.facebook.com/ZoeMeow6250
 [twitter]: https://www.twitter.com/ZoeMeow6250
 [email]: mailto:ZoeMeow.6250@outlook.com
-
-<!-- Monstercat links -->
-[monstercat_ss]: https://www.monstercat.com/silk-showcase
-[monstercat_cotw]: https://www.monstercat.com/call-of-the-wild
 
 <!-- Image credit -->
 [pixiv_user]: https://www.pixiv.net/users/288248
