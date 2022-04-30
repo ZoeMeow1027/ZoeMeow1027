@@ -1,4 +1,4 @@
-## About me: @ZoeMeow6250
+## About me: @ZoeMeow5466
 Just doing your favorite, and... that's it :))
 
 <!-- Working projects and just for fun =)) -->
@@ -46,10 +46,10 @@ Most active contacts:
 
 Other contacts:
 - Email: [ZoeMeow.6250@outlook.com][email]
-- Twitter: [Quế Tùng (@ZoeMeow6250)][twitter]
+- Twitter: [Quế Tùng (@ZoeMeow5466)][twitter]
 
 Rarely contacts:
-- Facebook: [Quế Tùng (@ZoeMeow.6250)][facebook]
+- Facebook: [Quế Tùng (@ZoeMeow5466)][facebook]
 
 <!-- Avatar credit -->
 ## About avatar
@@ -66,8 +66,8 @@ Check out here: https://docs.github.com/en/github/setting-up-and-managing-your-g
 <!-- Available personal social links -->
 [discord]: https://discordapp.com/users/465061557814951936
 [reddit]: https://www.reddit.com/user/zoe13010_01
-[facebook]: https://www.facebook.com/ZoeMeow6250
-[twitter]: https://www.twitter.com/ZoeMeow6250
+[facebook]: https://www.facebook.com/ZoeMeow5466
+[twitter]: https://www.twitter.com/ZoeMeow5466
 [email]: mailto:ZoeMeow.6250@outlook.com
 
 <!-- Image credit -->
