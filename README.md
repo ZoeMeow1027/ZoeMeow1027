@@ -64,7 +64,7 @@ Check out here: https://docs.github.com/en/github/setting-up-and-managing-your-g
 
 <!-- All links here. Don't edit these line unless you know what you are doing! -->
 <!-- Available personal social links -->
-[discord]: https://discordapp.com/users/465061557814951936 <!-- This link is currently unavailable -->
+[discord]: https://discordapp.com/users/465061557814951936
 [reddit]: https://www.reddit.com/user/zoe13010_01
 [facebook]: https://www.facebook.com/ZoeMeow5466
 [twitter]: https://www.twitter.com/ZoeMeow5466
@@ -76,8 +76,8 @@ Check out here: https://docs.github.com/en/github/setting-up-and-managing-your-g
 
 <!-- Preview: GitHub stats -->
 [github_readme_stats]: https://github.com/anuraghazra/github-readme-stats
-[github_stats]: https://github-readme-stats.vercel.app/api?show_icons=true&theme=default&username=zoemeow6250
-[github_mostusedlang]: https://github-readme-stats.vercel.app/api/top-langs?layout=compact&username=zoemeow6250
+[github_stats]: https://github-readme-stats.vercel.app/api?show_icons=true&theme=default&username=zoemeow5466
+[github_mostusedlang]: https://github-readme-stats.vercel.app/api/top-langs?layout=compact&username=zoemeow5466
 
 <!-- Preview: GitHub Progress bar -->
 [github_progressbar]: https://github.com/fredericojordan/progress-bar
