@@ -45,7 +45,7 @@ Most active contacts:
 - Reddit: [ZoeMeow (@Zoe13010_01)][reddit]
 
 Other contacts:
-- Email: [ZoeMeow.6250@outlook.com][email]
+- Email: [ZoeMeow5466@outlook.com][email]
 - Twitter: [Quế Tùng (@ZoeMeow5466)][twitter]
 
 Rarely contacts:
@@ -68,7 +68,7 @@ Check out here: https://docs.github.com/en/github/setting-up-and-managing-your-g
 [reddit]: https://www.reddit.com/user/zoe13010_01
 [facebook]: https://www.facebook.com/ZoeMeow5466
 [twitter]: https://www.twitter.com/ZoeMeow5466
-[email]: mailto:ZoeMeow.6250@outlook.com
+[email]: mailto:ZoeMeow5466@outlook.com
 
 <!-- Image credit -->
 [pixiv_user]: https://www.pixiv.net/users/288248
