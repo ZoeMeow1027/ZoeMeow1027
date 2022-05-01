@@ -41,7 +41,7 @@ Just doing your favorite, and... that's it :))
 Here is my available contacts. Some of them can just click link for direct to my profile.
 
 Most active contacts:
-- Discord: ZoeMeow#5466 (you need to login your Discord account first)
+- Discord: ZoeMeow#6250 (you need to login your Discord account first)
 - Reddit: [ZoeMeow (@Zoe13010_01)][reddit]
 
 Other contacts:
