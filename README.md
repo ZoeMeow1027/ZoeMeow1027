@@ -41,7 +41,8 @@ Just doing your favorite, and... that's it :))
 Here is my available contacts. Some of them can just click link for direct to my profile.
 
 Most active contacts:
-- Discord: ZoeMeow#6250 (you need to login your Discord account first)
+- Discord: [ZoeMeow#5466][discord]
+  - If direct link isn't working, you need search my ID in Discord.
 - Reddit: [ZoeMeow (@Zoe13010_01)][reddit]
 
 Other contacts:
@@ -64,7 +65,7 @@ Check out here: https://docs.github.com/en/github/setting-up-and-managing-your-g
 
 <!-- All links here. Don't edit these line unless you know what you are doing! -->
 <!-- Available personal social links -->
-[discord]: https://discordapp.com/users/465061557814951936
+[discord]: https://zoemeow.herokuapp.com/direct?social=discord&type=web
 [reddit]: https://www.reddit.com/user/zoe13010_01
 [facebook]: https://www.facebook.com/ZoeMeow5466
 [twitter]: https://www.twitter.com/ZoeMeow5466
