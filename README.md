@@ -3,11 +3,7 @@ Just doing your favorite, and... that's it :))
 
 <!-- Working projects and just for fun =)) -->
 ## Working projects and just for fun by ZoeMeow
-- Nothing here. I will update them later. Stay tuned!
-
-<!-- Hobbies -->
-## Hobbies
-- Custom Android ROM (because I don't like Color OS/Realme UI!!! That's it!)
+- [DUT app for Android](https://github.com/ZoeMeow5466/DUTApp_API/): Optimize view in page and subject notifications for DUT students. Only on Android, for now.
 
 <!-- My statistics -->
 ## Statistics
@@ -18,22 +14,25 @@ Just doing your favorite, and... that's it :))
 
 <!-- My learned programming languages -->
 ## All programming languages
-| Programming Language | Status                                                                      |
-| -------------------- | ------                                                                      |
-| C# (CSharp)          | ![CSharp status][csharp_status]<br>                                         |
-| Python               | ![Python status][python_status]<br>                                         |
-| Java                 | ![Java status][java_status]<br>                                             |
-| HTML3/5/CSS/JS       | Currently learning                                                          |
-| Django (Python)      | Currently learning                                                          |
-| Node.Js              | Currently learning                                                          |
+- Learned programming languages (basic)
 
-- Using repository [fredericojordan/progress-bar][github_progressbar] for preview.
+<img height=50 src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"/><img height=50 src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"/><img height=50 src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"/>
+
+- Learning programming languages:
+
+| Programming Language | Status                                 |
+| -----                | ------                                 |
+| HTML3/5/CSS/JS       | ![html_status][html_status]<br>        |
+| Django (Python)      | ![django_status][django_status]<br>    |
+| Node.Js              | ![node_status][node_status]<br>        |
+
+- Thanks to [fredericojordan/progress-bar][github_progressbar], [VectorLogoZone][vectorzone_link] for preview.
 
 <!-- My other information -->
 ## My other information
 
 ### English
-- Currently I don't speak well with English, but I can know some IT Terminology. For now, I'm study English for better :))
+- Currently I don't speak well with English, but I can know some IT Terminology. For now, I'm studying English for better :))
 
 <!-- Contacts area -->
 ### Contacts
@@ -58,9 +57,8 @@ Rarely contacts:
 - Source link: [https://www.pixiv.net/artworks/37009353][pixiv_image]
 
 <!-- More information about this profile -->
-## About this profile
-- Want to learn more about "About your profile README" like this?<br>
-Check out here: https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
+## About this profile? Want to create a profile like this?
+- Check out here: https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
 
 
 <!-- All links here. Don't edit these line unless you know what you are doing! -->
@@ -75,6 +73,8 @@ Check out here: https://docs.github.com/en/github/setting-up-and-managing-your-g
 [pixiv_user]: https://www.pixiv.net/users/288248
 [pixiv_image]: https://www.pixiv.net/artworks/37009353
 
+[vectorzone_link]: https://www.vectorlogo.zone/
+
 <!-- Preview: GitHub stats -->
 [github_readme_stats]: https://github.com/anuraghazra/github-readme-stats
 [github_stats]: https://github-readme-stats.vercel.app/api?show_icons=true&theme=default&username=zoemeow5466
@@ -82,6 +82,6 @@ Check out here: https://docs.github.com/en/github/setting-up-and-managing-your-g
 
 <!-- Preview: GitHub Progress bar -->
 [github_progressbar]: https://github.com/fredericojordan/progress-bar
-[csharp_status]: https://progress-bar.dev/80?scale=100&width=300&suffix=%
-[python_status]: https://progress-bar.dev/70?scale=100&width=300&suffix=%
-[java_status]: https://progress-bar.dev/65?scale=100&width=300&suffix=%
+[html_status]: https://progress-bar.dev/10?scale=100&width=300&suffix=%
+[django_status]: https://progress-bar.dev/10?scale=100&width=300&suffix=%
+[node_status]: https://progress-bar.dev/10?scale=100&width=300&suffix=%
