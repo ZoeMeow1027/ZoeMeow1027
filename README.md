@@ -2,9 +2,8 @@
 Just doing your favorite, and... that's it :))
 
 <!-- Working projects and just for fun =)) -->
-## Working projects and just for fun by ZoeMeow
-- [DUT app for Android](https://github.com/ZoeMeow5466/DUTApp_API/): Optimize view in page and subject notifications for DUT students. Only on Android, for now.
-  - This is deprecated and will be continued in next repository. Stay tuned!
+## Working projects
+- (Working in progress) [DUT app for Android](https://github.com/ZoeMeow5466/DUTApp.Android/): Optimize view in page and subject notifications for DUT students. Only on Android, for now.
 
 <!-- My statistics -->
 ## Statistics
