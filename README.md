@@ -10,7 +10,7 @@ Just doing your favorite, and... that's it :))
 
 ![GitHub stats][github_stats]<br>
 ![Most Used Languages][github_mostusedlang]<br>
-- Using repository [anuraghazra/github-readme-stats][github_readme_stats] for preview.
+- Powered by [anuraghazra/github-readme-stats][github_readme_stats].
 
 <!-- My other information -->
 ## My other information
