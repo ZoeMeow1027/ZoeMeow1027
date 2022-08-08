@@ -32,12 +32,13 @@ Other contacts:
 
 <!-- Avatar credit -->
 ## About avatar
-- Using [ねこざとう][pixiv_user]'s art on Twitter.
-- Source link: [https://www.pixiv.net/artworks/86792785][pixiv_image]
+- Artwork by [月城琉花 (Pixiv)][pixiv_user].
+- [https://www.pixiv.net/artworks/37009353][pixiv_image]
 
 <!-- More information about this profile -->
-## About this profile? Want to create a profile like this?
-- Check out here: https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
+## About this profile
+- A GitHub specific repository with its name is your username.
+- Want to create a profile like this? Check out here: https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
 
 
 <!-- All links here. Don't edit these line unless you know what you are doing! -->
@@ -49,8 +50,8 @@ Other contacts:
 [email]: mailto:ZoeMeow5466@outlook.com
 
 <!-- Image credit -->
-[pixiv_user]: https://www.pixiv.net/users/14612553
-[pixiv_image]: https://www.pixiv.net/artworks/86792785
+[pixiv_user]: https://www.pixiv.net/users/288248
+[pixiv_image]: https://www.pixiv.net/artworks/37009353
 
 [vectorzone_link]: https://www.vectorlogo.zone/
 
