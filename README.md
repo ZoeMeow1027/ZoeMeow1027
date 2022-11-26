@@ -1,5 +1,5 @@
 ## About me: @ZoeMeow5466
-Just doing your favorite, and... that's it :))
+Coding with hobby, not for requests :)
 
 <!-- Working projects and just for fun =)) -->
 ## Working projects
