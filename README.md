@@ -2,11 +2,9 @@
 Coding with hobby, not for requests :)
 
 <!-- Working projects and just for fun =)) -->
-## Working projects
-- (Paused due to PBL6) [SubjectNotifier](https://github.com/ZoeMeow5466/SubjectNotifier/): Optimize view in page and subject notifications for DUT students. Only on Android, for now.
-
-## Where's dutapi library for now?
-- Moved to new location. [Check here](https://github.com/dutapi-library).
+## Working projects (paused due to my project-based learning in university)
+- [SubjectNotifier][github_repo_subjectnotifier]: Optimize view in page and subject notifications for DUT student page. Only on Android, for now.
+- DUT Wrapper Library: [Check here][github_repo_dutwrapperlib]
 
 <!-- My statistics -->
 ## Statistics
@@ -23,20 +21,16 @@ Coding with hobby, not for requests :)
 
 Here is my available contacts. Some of them can just click link for direct to my profile.
 
-Most active contacts:
-- Discord: [ZoeMeow#5466][discord]
-  - If direct link isn't working, you need search my ID in Discord app.
+- Discord: ZoeMeow#5466
 - Reddit: [ZoeMeow (@Zoe13010_01)][reddit]
-
-Other contacts:
-- Email: [ZoeMeow5466@outlook.com][email]
-- Twitter: [Quế Tùng (@ZoeMeow5466)][twitter]
 - Facebook: [Quế Tùng (@ZoeMeow5466)][facebook]
+- Twitter: [Quế Tùng (@ZoeMeow5466)][twitter]
+- Email: [ZoeMeow5466@outlook.com][email]
 
 <!-- Avatar credit -->
 ## About avatar
-- Artwork by [月城琉花 (Pixiv)][pixiv_user].
-- [https://www.pixiv.net/artworks/37009353][pixiv_image]
+- Artwork by [月城琉花 (Pixiv)][pixiv_author_user].
+- [https://www.pixiv.net/artworks/37009353][pixiv_author_image]
 
 <!-- More information about this profile -->
 ## About this profile
@@ -45,16 +39,18 @@ Other contacts:
 
 
 <!-- All links here. Don't edit these line unless you know what you are doing! -->
+[github_repo_subjectnotifier]: https://github.com/ZoeMeow5466/SubjectNotifier/
+[github_repo_dutwrapperlib]: https://github.com/dutwrapper-lib
+
 <!-- Available personal social links -->
-[discord]: https://zoemeow.herokuapp.com/direct?social=discord&type=web
 [reddit]: https://www.reddit.com/user/zoe13010_01
 [facebook]: https://www.facebook.com/ZoeMeow5466
 [twitter]: https://www.twitter.com/ZoeMeow5466
 [email]: mailto:ZoeMeow5466@outlook.com
 
 <!-- Image credit -->
-[pixiv_user]: https://www.pixiv.net/users/288248
-[pixiv_image]: https://www.pixiv.net/artworks/37009353
+[pixiv_author_user]: https://www.pixiv.net/users/288248
+[pixiv_author_image]: https://www.pixiv.net/artworks/37009353
 
 [vectorzone_link]: https://www.vectorlogo.zone/
 
