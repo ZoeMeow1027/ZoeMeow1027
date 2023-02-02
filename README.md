@@ -25,12 +25,11 @@ Here is my available contacts. Some of them can just click link for direct to my
 - Reddit: [ZoeMeow (@Zoe13010_01)][reddit]
 - Facebook: [Quế Tùng (@ZoeMeow5466)][facebook]
 - Twitter: [Quế Tùng (@ZoeMeow5466)][twitter]
-- Email: [ZoeMeow5466@outlook.com][email]
+- Email: [ZoeMeow1027@gmail.com][email]
 
 <!-- Avatar credit -->
 ## About avatar
-- Artwork by [月城琉花 (Pixiv)][pixiv_author_user].
-- [https://www.pixiv.net/artworks/37009353][pixiv_author_image]
+- Avatar is a part of artwork by [翼つばさ on Pixiv][pixiv_author_user] ([https://www.pixiv.net/artworks/104152467][pixiv_author_image])
 
 <!-- More information about this profile -->
 ## About this profile
@@ -46,11 +45,11 @@ Here is my available contacts. Some of them can just click link for direct to my
 [reddit]: https://www.reddit.com/user/zoe13010_01
 [facebook]: https://www.facebook.com/ZoeMeow5466
 [twitter]: https://www.twitter.com/ZoeMeow5466
-[email]: mailto:ZoeMeow5466@outlook.com
+[email]: mailto:ZoeMeow1027@gmail.com
 
 <!-- Image credit -->
-[pixiv_author_user]: https://www.pixiv.net/users/288248
-[pixiv_author_image]: https://www.pixiv.net/artworks/37009353
+[pixiv_author_user]: https://www.pixiv.net/users/2874136
+[pixiv_author_image]: https://www.pixiv.net/artworks/104152467
 
 [vectorzone_link]: https://www.vectorlogo.zone/
 
