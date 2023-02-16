@@ -1,4 +1,4 @@
-## About me: @ZoeMeow5466
+## About me: @ZoeMeow1027
 Coding with hobby, not for requests :)
 
 <!-- Working projects and just for fun =)) -->
@@ -21,10 +21,10 @@ Coding with hobby, not for requests :)
 
 Here is my available contacts. Some of them can just click link for direct to my profile.
 
-- Discord: ZoeMeow#5466
+- Discord: ZoeMeow#1027
 - Reddit: [ZoeMeow (@Zoe13010_01)][reddit]
-- Facebook: [Quế Tùng (@ZoeMeow5466)][facebook]
-- Twitter: [Quế Tùng (@ZoeMeow5466)][twitter]
+- Facebook: [Quế Tùng (@ZoeMeow1027)][facebook]
+- Twitter: [Quế Tùng (@ZoeMeow1027)][twitter]
 - Email: [ZoeMeow1027@gmail.com][email]
 
 <!-- Avatar credit -->
@@ -38,13 +38,13 @@ Here is my available contacts. Some of them can just click link for direct to my
 
 
 <!-- All links here. Don't edit these line unless you know what you are doing! -->
-[github_repo_subjectnotifier]: https://github.com/ZoeMeow5466/SubjectNotifier/
+[github_repo_subjectnotifier]: https://github.com/ZoeMeow1027/SubjectNotifier/
 [github_repo_dutwrapperlib]: https://github.com/dutwrapper-lib
 
 <!-- Available personal social links -->
 [reddit]: https://www.reddit.com/user/zoe13010_01
-[facebook]: https://www.facebook.com/ZoeMeow5466
-[twitter]: https://www.twitter.com/ZoeMeow5466
+[facebook]: https://www.facebook.com/ZoeMeow1027
+[twitter]: https://www.twitter.com/ZoeMeow1027
 [email]: mailto:ZoeMeow1027@gmail.com
 
 <!-- Image credit -->
@@ -55,5 +55,5 @@ Here is my available contacts. Some of them can just click link for direct to my
 
 <!-- Preview: GitHub stats -->
 [github_readme_stats]: https://github.com/anuraghazra/github-readme-stats
-[github_stats]: https://github-readme-stats.vercel.app/api?show_icons=true&theme=default&username=zoemeow5466
-[github_mostusedlang]: https://github-readme-stats.vercel.app/api/top-langs?layout=compact&username=zoemeow5466
+[github_stats]: https://github-readme-stats.vercel.app/api?show_icons=true&theme=default&username=ZoeMeow1027
+[github_mostusedlang]: https://github-readme-stats.vercel.app/api/top-langs?layout=compact&username=ZoeMeow1027
