@@ -28,8 +28,9 @@ Here is my available contacts. Some of them can just click link for direct to my
 - Email: [ZoeMeow1027@gmail.com][email]
 
 <!-- Avatar credit -->
-## About avatar
-- Avatar is a part of artwork by [翼つばさ on Pixiv][pixiv_author_user] ([https://www.pixiv.net/artworks/104152467][pixiv_author_image])
+## About avatar credit
+- Avatar is a part of artwork by [シロガネヒナ🍀 (@milky17s) on Twitter][author_user_link]
+- [https://twitter.com/milky17s/status/1631823472103141376][avatar_image_link]
 
 <!-- More information about this profile -->
 ## About this profile
@@ -48,8 +49,8 @@ Here is my available contacts. Some of them can just click link for direct to my
 [email]: mailto:ZoeMeow1027@gmail.com
 
 <!-- Image credit -->
-[pixiv_author_user]: https://www.pixiv.net/users/2874136
-[pixiv_author_image]: https://www.pixiv.net/artworks/104152467
+[author_user_link]: https://twitter.com/milky17s
+[avatar_image_link]: https://twitter.com/milky17s/status/1631823472103141376
 
 [vectorzone_link]: https://www.vectorlogo.zone/
 
