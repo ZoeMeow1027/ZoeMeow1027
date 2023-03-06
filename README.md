@@ -1,5 +1,5 @@
 ## About me: @ZoeMeow1027
-Coding with hobby, not for requests :)
+Coding with hobby, no other exceptions :)
 
 <!-- Working projects and just for fun =)) -->
 ## Working projects (paused due to my project-based learning in university)
