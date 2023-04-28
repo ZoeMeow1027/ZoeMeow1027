@@ -2,7 +2,7 @@
 Coding with hobby, no other exceptions :)
 
 <!-- Working projects and just for fun =)) -->
-## Working projects (paused due to my project-based learning in university)
+## Working projects (paused due to my final project in university)
 - [SubjectNotifier][github_repo_subjectnotifier]: Optimize view in page and subject notifications for DUT student page. Only on Android, for now.
 - DUT Wrapper Library: [Check here][github_repo_dutwrapperlib]
 
