@@ -22,7 +22,7 @@ Coding with hobby, no other exceptions :)
 Here is my available contacts. Some of them can just click link for direct to my profile.
 
 - Discord: ZoeMeow#1027
-- Reddit: [ZoeMeow (@Zoe13010_01)][reddit]
+- Reddit: ~~ZoeMeow (@Zoe13010_01)~~ (My account has been banned without any reasons from Reddit)
 - Facebook: [Quế Tùng (@ZoeMeow1027)][facebook]
 - Twitter: [Quế Tùng (@ZoeMeow1027)][twitter]
 - Email: [ZoeMeow1027@gmail.com][email]
