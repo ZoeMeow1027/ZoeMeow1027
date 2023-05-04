@@ -21,8 +21,8 @@ Coding with hobby, no other exceptions :)
 
 Here is my available contacts. Some of them can just click link for direct to my profile.
 
-- Discord: ZoeMeow#1027
-- Reddit: ~~ZoeMeow (@Zoe13010_01)~~ (My account has been banned without any reasons from Reddit)
+- Discord: ZoeMeow#1027 [(Note that username in Discord may be changed in the future)](https://discord.com/blog/usernames)
+- Reddit: [ZoeMeow (@ZoeMeow1027)][reddit]
 - Facebook: [Quế Tùng (@ZoeMeow1027)][facebook]
 - Twitter: [Quế Tùng (@ZoeMeow1027)][twitter]
 - Email: [ZoeMeow1027@gmail.com][email]
@@ -43,7 +43,7 @@ Here is my available contacts. Some of them can just click link for direct to my
 [github_repo_dutwrapperlib]: https://github.com/dutwrapper-lib
 
 <!-- Available personal social links -->
-[reddit]: https://www.reddit.com/user/zoe13010_01
+[reddit]: https://www.reddit.com/user/ZoeMeow1027
 [facebook]: https://www.facebook.com/ZoeMeow1027
 [twitter]: https://www.twitter.com/ZoeMeow1027
 [email]: mailto:ZoeMeow1027@gmail.com
