@@ -2,9 +2,9 @@
 Coding with hobby, no other exceptions :)
 
 <!-- Working projects and just for fun =)) -->
-## Working projects (paused due to my final project in university)
-- [SubjectNotifier][github_repo_subjectnotifier]: Optimize view in page and subject notifications for DUT student page. Only on Android, for now.
-- DUT Wrapper Library: [Check here][github_repo_dutwrapperlib]
+## Just-for-fun projects (paused due to my final project in university)
+- [DutSchedule][github_repo_subjectnotifier]: Optimize view in page and subject notifications for DUT student page.
+- [DUT Wrapper Library][github_repo_dutwrapperlib]/
 
 <!-- My statistics -->
 ## Statistics
@@ -37,10 +37,9 @@ Here is my available contacts. Some of them can just click link for direct to my
 - A GitHub specific repository with its name is your username.
 - Want to create a profile like this? Check out here: https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
 
-
 <!-- All links here. Don't edit these line unless you know what you are doing! -->
-[github_repo_subjectnotifier]: https://github.com/ZoeMeow1027/SubjectNotifier/
-[github_repo_dutwrapperlib]: https://github.com/dutwrapper-lib
+[github_repo_subjectnotifier]: https://github.com/ZoeMeow1027/dutschedule/
+[github_repo_dutwrapperlib]: https://github.com/ZoeMeow1027/dutwrapper/
 
 <!-- Available personal social links -->
 [reddit]: https://www.reddit.com/user/ZoeMeow1027
