@@ -38,7 +38,7 @@ Here is my available contacts. Some of them can just click link for direct to my
 - Want to create a profile like this? Check out here: https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
 
 <!-- All links here. Don't edit these line unless you know what you are doing! -->
-[github_repo_subjectnotifier]: https://github.com/ZoeMeow1027/dutschedule/
+[github_repo_subjectnotifier]: https://github.com/ZoeMeow1027/dutschedule-flutter/
 [github_repo_dutwrapperlib]: https://github.com/ZoeMeow1027/dutwrapper/
 
 <!-- Available personal social links -->
