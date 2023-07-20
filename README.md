@@ -2,7 +2,7 @@
 Coding with hobby, no other exceptions :)
 
 <!-- Working projects and just for fun =)) -->
-## Just-for-fun projects (paused due to my final project in university)
+## Just-for-fun projects
 - [DutSchedule][github_repo_subjectnotifier]: Optimize view in page and subject notifications for DUT student page.
 - [DUT Wrapper Library][github_repo_dutwrapperlib]
 
