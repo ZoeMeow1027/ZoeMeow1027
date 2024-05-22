@@ -1,5 +1,5 @@
 ## About me: @ZoeMeow1027
-Rise and shine :))
+Find something to make fun...
 
 <!-- Working projects and just for fun =)) -->
 ## Active projects
@@ -26,13 +26,13 @@ Here is my available contacts. Some of them can just click link for direct to my
 
 <!-- Avatar source -->
 ## About avatar source
-- Avatar is a part of artwork by [茶之原ふて on Pixiv](https://www.pixiv.net/en/users/15649008)
-- Artwork link: [https://www.pixiv.net/en/artworks/91949013](https://www.pixiv.net/en/artworks/91949013)
+- Avatar is a part of artwork by [暁星るあ on Pixiv](https://www.pixiv.net/en/users/62227537)
+- Artwork link: [https://www.pixiv.net/en/artworks/105344402](https://www.pixiv.net/en/artworks/105344402)
 
 <!-- More information about this profile -->
 ## About this profile
 - A GitHub specific repository with its name is your username.
-- Want to create a profile like this? Check out here: https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
+- More information can be found [here](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
 
 <!-- Preview: GitHub stats -->
 [github_readme_stats]: https://github.com/anuraghazra/github-readme-stats
