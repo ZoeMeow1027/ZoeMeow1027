@@ -26,8 +26,8 @@ Here is my available contacts. Some of them can just click link for direct to my
 
 <!-- Avatar source -->
 ## About avatar source
-- Avatar is a part of artwork by [暁星るあ on Pixiv](https://www.pixiv.net/en/users/62227537)
-- Artwork link: [https://www.pixiv.net/en/artworks/105344402](https://www.pixiv.net/en/artworks/105344402)
+- Avatar is a part of artwork by [ﾂ on Pixiv](https://www.pixiv.net/en/users/24590442) (be careful, this profile contains R-18 artworks)
+- Artwork link: [https://www.pixiv.net/en/artworks/87776640](https://www.pixiv.net/en/artworks/87776640)
 
 <!-- More information about this profile -->
 ## About this profile
