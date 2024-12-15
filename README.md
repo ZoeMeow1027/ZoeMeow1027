@@ -24,10 +24,10 @@ I've moved all contacts to Gravatar. You can navigate there to get my contact in
 
 <!-- Avatar source -->
 ## About avatar source
-- Avatar is a part of artwork by [pungsun (Pixiv)](https://www.pixiv.net/u/80872740).<!-- (be careful, this profile contains R-18 artworks) --> You can find them here: [https://www.pixiv.net/i/123226460](https://www.pixiv.net/i/123226460).
+- Avatar is a part of artwork by [月城琉花 (Pixiv)](https://www.pixiv.net/u/288248).<!-- (be careful, this profile contains R-18 artworks) --> You can find them here: [https://www.pixiv.net/i/37009353](https://www.pixiv.net/i/37009353).
 
 <!-- More information about this profile -->
-## About this profile
+## About GitHub profile
 - A GitHub specific repository with its name is your username. More information can be found [here](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
 
 <!-- Preview: GitHub stats -->
