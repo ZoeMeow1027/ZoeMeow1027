@@ -13,7 +13,7 @@ I've moved all contacts to Gravatar. You can navigate there to get my contact in
 - Gravatar: [ZoeMeow1027](https://gravatar.com/zoemeow1027)
 
 ## Credits
-- Avatar is a part of artwork by [@fox26krystal21 (X)](https://x.com/fox26krystal21).<!-- (be careful, this profile contains R-18 artworks) --> You can find them here: [https://x.com/fox26krystal21/status/1795560684362887658](https://x.com/fox26krystal21/status/1795560684362887658).
+- Avatar is a part of artwork by [@fox26krystal21 (X)](https://x.com/fox26krystal21).<!-- (be careful, this profile contains R-18 artworks) --> You can find them here: [https://x.com/fox26krystal21/status/1805435749929500800](https://x.com/fox26krystal21/status/1805435749929500800).
 - github-readme-stats (used by Most Used Languages): Powered by [anuraghazra/github-readme-stats][github_readme_stats].
 - GitHub profile: More information can be found [here](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
 
